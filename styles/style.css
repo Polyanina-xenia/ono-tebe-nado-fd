@@ -4,7 +4,7 @@
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
     height: 293px;
-    padding: 0px 50px; 
+    padding: 0px 50px;
     font-size: 18px;
 }
 .header__links-list {
@@ -61,10 +61,8 @@ a {
     text-transform: uppercase;
     padding: 168px 50px 0px;
     font-weight: 700;
-    min-height: 0x;
     font-size: 100px;
     letter-spacing: 0.3em;
-    min-height: 551px;
     gap: 15px;
 
 }
@@ -91,7 +89,6 @@ span {
     font-weight: 400;
     font-size: 22px;
     line-height: 28px;
-    text-transform: uppercase;
     word-spacing: 19px;
 }
 .bet-button {
@@ -109,7 +106,7 @@ span {
 }
 .lots__heading {
     margin-top:180px;
-    margin-bottom: 26px; 
+    margin-bottom: 26px;
     margin-left: 65px;
     text-transform: uppercase;
     color: #000000;
@@ -139,7 +136,7 @@ span {
     position: relative;
     justify-content: space-between;
 }
-.card_type_film {    
+.card_type_film {
     z-index: 0;
     background-image: url("../images/film.png");
 }
@@ -212,7 +209,7 @@ span {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     align-items:start;
-    padding: 0px 50px; 
+    padding: 0px 50px;
     margin-top: 180px;
     font-size: 18px;
 }
